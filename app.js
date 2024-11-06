@@ -1,2 +1,2 @@
-//Add new Feature - button.
-//Add new Feature - form.
+//Add new Feature - button
+//Add new Feature - form
